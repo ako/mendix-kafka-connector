@@ -1,0 +1,7 @@
+*.classpath
+*.project
+*.launch
+*.bak
+src/.mendix-cache
+src/.svn
+src/deployment
